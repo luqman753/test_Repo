@@ -1,0 +1,292 @@
+{
+  "users": [
+    {
+      "email": "afaqahmad@gmail.com",
+      "password": "$2a$10$tauQrpQgDD4oUWQgZiYsDO4ILRJLgvkKx1QtJEWLe9xE3lX7N5tYK",
+      "name": "Afaq Ahmad",
+      "id": 3
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$Cflxxig/vYz53PaagAxGAO3RZJW.VJM6AUHO8Avh8TFnPW20qvS6m",
+      "name": "demo",
+      "id": 4
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "$2a$10$t8UmoojHPDiS6jdYn.QNtO26yrTlIqKAGpib9Wwd85BLPwDeiT4F.",
+      "name": "john",
+      "id": 5
+    },
+    {
+      "email": "luqman@gmail.com",
+      "password": "$2a$10$60AGPQDwPxHiXiqAgGQtjeK4pwikKCPzZQRX3wwQwpg5KHmSVuAaC",
+      "name": "Luqman",
+      "id": 6
+    }
+  ],
+  "books": [
+    {
+      "id": "b6f80d8a-d500-4eda-8a2e-1ad1bd3bc4f8",
+      "name": "Book 1",
+      "title": "ReactJS for beginner",
+      "authorId": 4,
+      "sections": [
+        {
+          "id": "9c12dcf4-7a17-4975-bac5-3d397ee3e1a6",
+          "title": "Introduction",
+          "sections": [
+            {
+              "id": "461086e7-50c2-4063-b320-2ca2b533235c",
+              "title": "Introduction-I",
+              "sections": [
+                {
+                  "id": "fc48c49c-8fed-455f-af2e-aff3df460c7a",
+                  "title": "Basic",
+                  "sections": []
+                }
+              ]
+            },
+            {
+              "id": "2e62cf2a-1e89-4e66-ac5c-953598f7a99d",
+              "title": "Introduction-II",
+              "sections": [
+                {
+                  "id": "ef08200b-28f7-43eb-81c4-33235f963de3",
+                  "title": "Advance",
+                  "sections": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "New Book",
+      "authorId": 4,
+      "sections": [
+        {
+          "id": "kq7424uv3",
+          "title": "New Subsection",
+          "sections": []
+        }
+      ],
+      "id": "IFD2YrS"
+    },
+    {
+      "title": "New Book",
+      "authorId": 5,
+      "sections": [
+        {
+          "id": "u8xa5uba2",
+          "title": "New Subsection",
+          "sections": []
+        }
+      ],
+      "id": "BgsTPt7"
+    },
+    {
+      "title": "New Book",
+      "authorId": 3,
+      "sections": [],
+      "id": "rcDSlmR"
+    },
+    {
+      "title": "New Book",
+      "authorId": 3,
+      "sections": [],
+      "id": "4qnvSTy"
+    },
+    {
+      "title": "New Book - 6",
+      "authorId": 4,
+      "sections": [],
+      "id": "2tzM8Cb"
+    },
+    {
+      "title": "New Book - 7",
+      "authorId": 3,
+      "sections": [],
+      "id": "Ns_jE8m"
+    },
+    {
+      "title": "New Book - 8",
+      "authorId": 3,
+      "sections": [],
+      "id": "Bu3j5IZ"
+    },
+    {
+      "title": "New Book - 9",
+      "authorId": 6,
+      "sections": [
+        {
+          "id": "rbflclwqs",
+          "title": "New Subsection",
+          "sections": [
+            {
+              "id": "t45td1e33",
+              "title": "New Subsection",
+              "sections": [
+                {
+                  "id": "v1ra0p3ak",
+                  "title": "New Subsection",
+                  "sections": [
+                    {
+                      "id": "ghjnakkit",
+                      "title": "New Subsection",
+                      "sections": [
+                        {
+                          "id": "enbrk5tg5",
+                          "title": "New Subsection",
+                          "sections": []
+                        },
+                        {
+                          "id": "do6bq2lyt",
+                          "title": "New Subsection",
+                          "sections": []
+                        },
+                        {
+                          "id": "ps4h0iemb",
+                          "title": "New Subsection",
+                          "sections": []
+                        },
+                        {
+                          "id": "2jywzkwqw",
+                          "title": "New Subsection",
+                          "sections": []
+                        },
+                        {
+                          "id": "6zatg6e15",
+                          "title": "New Subsection",
+                          "sections": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "v5gbmfyfs",
+          "title": "New Subsection",
+          "sections": [
+            {
+              "id": "a2vrwwp2q",
+              "title": "New Subsection",
+              "sections": [
+                {
+                  "id": "m3xije7o9",
+                  "title": "New Subsection",
+                  "sections": []
+                }
+              ]
+            },
+            {
+              "id": "us5urn5m6",
+              "title": "New Subsection",
+              "sections": []
+            },
+            {
+              "id": "3rhvd4upo",
+              "title": "New Subsection",
+              "sections": []
+            },
+            {
+              "id": "0fiaf5oqu",
+              "title": "New Subsection",
+              "sections": []
+            }
+          ]
+        }
+      ],
+      "id": "CZGd6bi"
+    },
+    {
+      "title": "New Book - 10",
+      "authorId": 6,
+      "sections": [
+        {
+          "id": "h79jsoi2i",
+          "title": "New Subsection",
+          "sections": []
+        }
+      ],
+      "id": "5MvEZWD"
+    },
+    {
+      "title": "New Book - 11",
+      "authorId": 6,
+      "sections": [
+        {
+          "id": "v1fn3fbxy",
+          "title": "New Subsection",
+          "sections": [
+            {
+              "id": "lh9emcc68",
+              "title": "New Subsection",
+              "sections": []
+            }
+          ]
+        }
+      ],
+      "id": "Kz-h-Iy"
+    }
+  ],
+  "collab": [
+    {
+      "bookId": "IFD2YrS",
+      "collaborators": [
+        3,
+        4,
+        2,
+        1
+      ],
+      "id": "0"
+    },
+    {
+      "bookId": "rcDSlmR",
+      "collaborators": [
+        4
+      ],
+      "id": "_wtZN7o"
+    },
+    {
+      "bookId": "4qnvSTy",
+      "collaborators": [
+        4
+      ],
+      "id": "cqEzS0q"
+    },
+    {
+      "bookId": "2tzM8Cb",
+      "collaborators": [
+        3
+      ],
+      "id": "-N3mkkq"
+    },
+    {
+      "bookId": "CZGd6bi",
+      "collaborators": [
+        3
+      ],
+      "id": "lkGSJMw"
+    },
+    {
+      "bookId": "5MvEZWD",
+      "collaborators": [
+        3
+      ],
+      "id": "jS-Sfei"
+    },
+    {
+      "bookId": "Kz-h-Iy",
+      "collaborators": [
+        3
+      ],
+      "id": "fL--W7Y"
+    }
+  ]
+}
